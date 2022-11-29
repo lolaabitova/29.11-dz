@@ -56,4 +56,39 @@
 .i-2:hover{
   width: 150px;
 }
+.conteiner-3 ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(211, 55, 16);
+  width: 950px;
+  border-radius: 10px;
+  
+  
 
+
+}
+.conteiner-3 a{
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 20px;
+  color: rgb(232, 240, 240);
+  display: block;
+  font-size: 25px;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 10px;
+}
+.conteiner-3 a:hover{
+  background-color: rgb(236, 177, 160);
+}
+
+.i-3{
+  width: 50px;
+}
+.conteiner-3{
+  display: flex;
+  margin-top: 200px;
+  
+}
