@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+.conteiner-1 ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  background-color: chartreuse;
+  
+
+
+}
+.conteiner-1 a{
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 30px;
+  font-size: 20px;
+  color: rgb(15, 21, 21);
+}
+.conteiner-1 a:hover{
+  background-color: beige;
+}
