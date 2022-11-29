@@ -20,3 +20,40 @@
 .conteiner-1 a:hover{
   background-color: beige;
 }
+.conteiner-2 ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(8, 8, 8);
+  padding: 0;
+  margin-right: 100px;
+  
+
+
+}
+.conteiner-2 a{
+  text-decoration: none;
+  border-radius: 5px;
+  
+  font-size: 20px;
+  color: rgb(153, 198, 198);
+  padding: 15px;
+  display: block;
+  
+}
+.conteiner-2 a:hover{
+  background-color: rgb(3, 68, 77);
+}
+.i-2{
+  margin-left: 100px;
+  width: 60px;
+}
+.conteiner-2{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.i-2:hover{
+  width: 150px;
+}
+
